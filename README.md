@@ -20,3 +20,12 @@ I'm a beginner learning Git, GitHub, programming, and cybersecurity.
 - Cybersecurity
 
 > This repository is part of my journey from beginner to professional. 
+## 💻 My First Project
+
+This repository is my first step into programming and cybersecurity.
+
+### 🚀 Next Steps
+- Learn Python
+- Learn Linux
+- Practice Git and GitHub
+- Build cybersecurity projects
